@@ -8,5 +8,7 @@ public class Test {
         System.out.println("Testing with Chrome");
 
         System.out.println("testing edge");
+
+        System.out.println("Testing safari");
     }
 }
